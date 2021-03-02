@@ -4,6 +4,7 @@ The goal of this project is to make you code a function that reads file from fil
 ## Prototype 
 int	get_next_line(int fd, char **line);
 
-<img src = "[get_next_line.en (dragged).pdf](https://github.com/yeonuklee/get_next_line/files/6067156/get_next_line.en.dragged.pdf)">
+[get_next_line.en (dragged).pdf](https://github.com/yeonuklee/get_next_line/files/6067156/get_next_line.en.dragged.pdf)
 [get_next_line.en (dragged).pdf](https://github.com/yeonuklee/get_next_line/files/6067157/get_next_line.en.dragged.pdf)
 [get_next_line.en (dragged).pdf](https://github.com/yeonuklee/get_next_line/files/6067158/get_next_line.en.dragged.pdf)
+
